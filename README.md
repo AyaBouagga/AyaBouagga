@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Eya</h1>
+<h1 align="center">👋 I'm Eya</h1>
 <h3 align="center">🌍 Software Engineer from Tunisia with expertise in cloud infrastructure, data engineering, and machine learning.</h3>
 
 - 💬 Ask me about **Odoo, Python, Kubernetes, Data Engineering, and Machine Learning.**
