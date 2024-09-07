@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I enjoy turning complex data into actionable insights.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
