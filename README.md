@@ -4,9 +4,9 @@
 
 
 
-<h3 align="center">🌍 Software Engineer from Tunisia with expertise in cloud infrastructure, data engineering, and machine learning.</h3>
+<h3 align="center">🌍 Software Engineer from Tunisia with expertise in software & data engineering,</h3>
 
-- 💬 Ask me about **Odoo, Python, Kubernetes, Data Engineering, and Machine Learning.**
+- 💬 Ask me about **Software & Data Engineering.**
 
 - 📫 How to reach me **bouagga.eya@gmail.com**
 
