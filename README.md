@@ -4,9 +4,11 @@
 
 
 
-<h3 align="center">🌍 Software Engineer from Tunisia with expertise in software & data engineering,</h3>
+<h3 align="center"> Software Engineer from Tunisia with expertise in software & data engineering,</h3>
 
 - 💬 Ask me about **Software & Data Engineering.**
+- 
+- 🤝 Always open for cooperation
 
 - 📫 How to reach me **bouagga.eya@gmail.com**
 
